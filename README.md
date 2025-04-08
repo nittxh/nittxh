@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Python for AI.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 Reach me through emails and from instagram.
-- ⚡ Fun fact is i can easily switch from one language to another.
+- ⚡ Fun fact is i push myself to learn something new.
