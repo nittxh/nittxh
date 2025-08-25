@@ -9,8 +9,8 @@
 ---
 
 ### 🔧 Tech Stack & Tools
-- 💻 Languages: Java | Python | C | JavaScript | SQL
-- 🌐 Web: HTML | CSS | Tailwind | React.js | Node.js | Express.js
+- 💻 Languages: Java | Python | JavaScript | SQL
+- 🌐 Web: HTML | CSS | Tailwind | React.js
 - 🛢️ Database: MySQL | MongoDB | Firebase
 - 🔧 Tools: Git | GitHub | VS Code | Postman | Figma | Notion
 - ☁️ Others: REST APIs | OOP | MVC | DBMS | Operating Systems
